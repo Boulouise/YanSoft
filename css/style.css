@@ -1428,12 +1428,12 @@ Swiper & Revotion*/
     width: 50%;
 }
 .bg .bghalf.imgone{
-    background: url("../images/bghalf-1.jpg") no-repeat;
+    background: url("../img/bghalf-1.jpg") no-repeat;
     left: 0;
     background-position: left center;
 }
 .bg .bghalf.imgtwo{
-    background: url("../images/bghalf-2.jpg") no-repeat;
+    background: url("../img/bghalf-2.jpg") no-repeat;
     right: 0;
     background-position: right center;
 }
@@ -1450,7 +1450,7 @@ Swiper & Revotion*/
     background: url("../images/bgfull-2.jpg") no-repeat;
 }
 .parallax-bg{
-    background: url("../images/parallax-bg.jpg") no-repeat;
+    background: url("../img/parallax-bg.jpg") no-repeat;
 }
 .page-header{
     background: url("../images/page-header.jpg") no-repeat;
