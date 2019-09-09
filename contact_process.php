@@ -3,7 +3,7 @@
 
 use PHPMailer\PHPMailer\PHPMailer;
 
-
+header("Location: index.html");
 require 'PHPMailer/src/Exception.php';
 require 'PHPMailer/src/PHPMailer.php';
 require 'PHPMailer/src/SMTP.php';
@@ -31,7 +31,7 @@ $mail->AltBody = 'HTML not supported';
 
 
 $mail->send();
- header("Location: index.html");
+ 
 // exit();
  
 
